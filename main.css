@@ -1,0 +1,44 @@
+body {
+    color: white;
+}
+.container {
+    padding-top: 140px;
+}
+.flex-container {
+    display: flex;
+
+  }
+  
+  .flex-container > div {
+
+    /* margin: 10px; */
+    padding-right: 90px;
+
+  }
+.box {
+    background-color: #00004d;
+    height: 460px;
+    width: 1020px;
+}
+
+table {
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+}
+td{
+    height: 260px;
+    width: 50%;    
+}
+.tag-line {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+}
+
+img {
+    background-color: orchid;
+    background-blend-mode: luminosity;
+}
+
